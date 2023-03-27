@@ -1,5 +1,5 @@
 import React from 'react'
-import kineimg from '../assets/img/kinesiologia.png'
+import kineimg from '../assets/images/kinesiologia.png'
 
 const Home = () => {
   return (
